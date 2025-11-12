@@ -1,0 +1,18 @@
+{
+  "name": "Ancient Read",
+  "short_name": "AncientRead",
+  "start_url": "/AncientRead/",
+  "scope": "/AncientRead/",
+  "display": "standalone",
+  "background_color": "#0b1221",
+  "theme_color": "#0b1221",
+  "icons": [
+    {
+      "src": "readancient.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
+
